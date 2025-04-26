@@ -1,6 +1,6 @@
 # Time-Based Encrypted Keyboard System
 
-![Project Demo](demo.gif) *(Optional: Add a demo GIF/video later)*
+![Project Demo](demo.gif) 
 
 A hardware/software solution that encrypts keystrokes at the hardware level using time-based XOR encryption, protecting against both software and hardware keyloggers.
 
