@@ -12,7 +12,6 @@ A hardware/software solution that encrypts keystrokes at the hardware level usin
 - 🛡️ **Protection against**:
   - Software keyloggers
   - Hardware keyloggers
-  - Shoulder surfing (via encrypted output)
 - ⌨️ **Full keyboard support** including special keys
 
 ## Technical Specifications
