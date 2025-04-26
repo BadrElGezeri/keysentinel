@@ -36,7 +36,7 @@ A hardware/software solution that encrypts keystrokes at the hardware level usin
 2. **Flash Arduino**:
    ```bash
    # Clone repository
-   git clone https://github.com/yourusername/encrypted-keyboard.git
+   git clone https://github.com/BadrElGezeri/encrypted-keyboard.git
    
    # Open sketch_apr26a.ino in Arduino IDE
    # Select Board: Arduino Leonardo
